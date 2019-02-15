@@ -14,7 +14,7 @@
 **Executable files description**
 ----------
 * _cmake_build/src/hsm_client/bin/libhsm_client.dll_ - shared library for writing clients (COM Interop supported)
-* _cmake_build/src/hsm_server/bin/hsm_server.exe_ - server applicatio, should be been installed at HSM workstation side
+* _cmake_build/src/hsm_server/bin/hsm_server.exe_ - server application, should be installed at HSM workstation side
 * _cmake_build/test/test_hsm_lib/bin/test_hsm_lib.exe_ - testing tools of main HSM library
 * _cmake_build/test/test_hsm_lib/bin/test_hsm_lib_client.exe_ - testing tools of client shared library
 
