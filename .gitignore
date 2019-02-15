@@ -1,0 +1,16 @@
+*.user
+*~
+bin/
+obj/
+.idea/
+*.dll
+*.exe
+.DS_Store
+cmake-build*
+cmake_build*
+.svn/
+.vs/
+**/conanbuildinfo.*
+**/conaninfo.txt
+*.csproj
+*.csproj.user

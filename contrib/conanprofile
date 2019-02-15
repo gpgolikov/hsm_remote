@@ -1,0 +1,15 @@
+[build_requires]
+
+[settings]
+os=Windows
+arch=x86
+compiler=gcc
+compiler.version=7
+compiler.libcxx=libstdc++
+build_type=Release
+
+[options]
+
+[env]
+CONAN_CMAKE_GENERATOR="CodeBlocks - MinGW Makefiles"
+CXXFLAGS="-march=i486"

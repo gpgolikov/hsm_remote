@@ -1,0 +1,11 @@
+[requires]
+Boost.Asio/1.64.0@bincrafters/stable
+Boost.Program_Options/1.64.0@bincrafters/stable
+Boost.Property_Tree/1.64.0@bincrafters/stable
+Boost.Log/1.64.0@bincrafters/stable
+Boost.Filesystem/1.64.0@bincrafters/stable
+Catch/1.9.6@bincrafters/stable
+cryptopp/5.6.5@bincrafters/stable
+
+[generators]                  
+cmake
